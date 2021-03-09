@@ -7,7 +7,7 @@ const redirectUri = "http://localhost:3000/"
 
 //A unique 62 digit code taken from Spotify API Dashboard
 // DO NOT SHARE THIS.
-const clientId = "1cbc8055589943a1ad39e15624add39c"
+const clientId = "cf79ad1ae5744fe4a6935ddd5c3a1529"
 
 //Allows us to define scope where the app can work.
 const scopes = [
